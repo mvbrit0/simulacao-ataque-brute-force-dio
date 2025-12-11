@@ -6,3 +6,4 @@ Este desafio da DIO tem como objetivo simular um ataque de força bruta, em um a
 |----------|------|------|
 | Kali Linux | 2025.3  | https://www.kali.org/get-kali/#kali-virtual-machines |
 | Metasploitable2 | 2.0.0 | https://sourceforge.net/projects/metasploitable/files/Metasploitable2/ |
+| Oracle VirtualBox  | 7.2.4  | https://www.virtualbox.org/wiki/Downloads |
