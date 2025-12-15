@@ -16,4 +16,6 @@ Este desafio da DIO tem como objetivo simular um ataque de força bruta, em um a
 ## 🔐 Cenários de Ataque
 ### Força Bruta em FTP
 #### Varredura de porta vulneráveis e versão dos serviços 
-#### . nmpa -sV -p ![Clique para ver execução](images/comando-nmap-kali-vb.PNG)
+#### . nmpa -sV -p 
+
+![Clique para ver execução](images/comando-nmap-kali-vb.PNG)
