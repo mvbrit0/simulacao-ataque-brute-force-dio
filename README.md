@@ -10,3 +10,5 @@ Este desafio da DIO tem como objetivo simular um ataque de força bruta, em um a
 ### Rede
 1. VirtualBox Host-Only Metasploitable ![Clique para ver execução](images/configuracao-rede-meta-vb.PNG)
 2. VirtualBox Host-Only Kali-linux ![Clique para ver execução](images/configuracao-rede-kali-linux-vb.PNG)
+### Validação
+Conectividade comando ping -c ![Clique para ver execução](images/validacao-conexao-kali-meta-vb)
