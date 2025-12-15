@@ -19,3 +19,7 @@ ping -c ![Clique para ver execução](images/validacao-conexao-kali-meta-vb.PNG)
 nmpa -sV -p 
 
 ![Clique para ver execução](images/comando-nmap-kali-vb.PNG)
+
+#### 2. Teste de conectividade
+ftp ![Clique para ver execução](images/teste-conectividade-ftp-kali-vb.PNG)
+
