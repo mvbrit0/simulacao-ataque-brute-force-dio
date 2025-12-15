@@ -9,3 +9,4 @@ Este desafio da DIO tem como objetivo simular um ataque de força bruta, em um a
 | Oracle VirtualBox  | 7.2.4  | https://www.virtualbox.org/wiki/Downloads |
 ### Rede
 1. VirtualBox Host-Only Metasploitable ![Clique para ver execução](images/configuracao-rede-meta-vb.PNG)
+2. VirtualBox Host-Only Kali-linux ![Clique para ver execução](images/configuracao-rede-kali-linux-vb.PNG)
