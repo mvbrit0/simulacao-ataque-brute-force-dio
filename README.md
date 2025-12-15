@@ -15,7 +15,7 @@ Este desafio da DIO tem como objetivo simular um ataque de força bruta, em um a
 .ping -c ![Clique para ver execução](images/validacao-conexao-kali-meta-vb.PNG)
 ## 🔐 Cenários de Ataque
 ### Força Bruta em FTP
-#### Varredura de portas vulneráveis e versão dos serviços 
+#### 1. Varredura de portas vulneráveis e versão dos serviços 
 . nmpa -sV -p 
 
 ![Clique para ver execução](images/comando-nmap-kali-vb.PNG)
