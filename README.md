@@ -34,6 +34,6 @@ medusa -h
 ![Clique para ver execução](images/ataque-forca-bruta-medusa-ftp-vb.PNG)
 ### 🛡️ Recomendações de Mitigação
 De uma forma geral, podemos aplicar políticas de bloqueio após tentativas falhas, além de monitoramento ativo de acessos e treinamento de usuários. Para os ataques específicos, podemos aplicar as ações abaixo:
-#### FTP: Desabilitar login anônimo, usar senhas fortes, habilitar TLS.
-#### Web (DVWA): Implementar CAPTCHA, limitar tentativas de login, usar MFA.
-#### SMB: Restringir compartilhamentos, aplicar políticas de senha, monitorar logs.
+#### FTP: Desabilitar login anônimo, usar senhas fortes e habilitar TLS;
+#### Web (DVWA): Implementar CAPTCHA, limitar tentativas de login e usar MFA;
+#### SMB: Restringir compartilhamentos, aplicar políticas de senha e monitorar logs.
