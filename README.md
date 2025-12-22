@@ -24,6 +24,7 @@ nmpa -sV -p
 ![Clique para ver execução](images/comando-nmap-kali-vb.PNG)
 #### 2. Teste de conectividade
 ftp 
+
 ![Clique para ver execução](images/teste-conectividade-ftp-kali-vb.PNG)
 #### 3. Criação de usuários e senhas
 echo -e
