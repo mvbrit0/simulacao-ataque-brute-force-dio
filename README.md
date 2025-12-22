@@ -27,5 +27,5 @@ ftp
 ![Clique para ver execução](images/teste-conectividade-ftp-kali-vb.PNG)
 #### 3. Criação de usuários e senhas
 echo -e
-
+![Clique para ver execução](images/criacao-user-pass-kali-vb.PNG)
 
