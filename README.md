@@ -30,4 +30,4 @@ echo -e
 ![Clique para ver execução](images/criacao-user-pass-kali-vb.PNG)
 #### 4. Força bruta em FTP
 medusa -h
-![Clique para ver execução](images/ataque-forca-bruta-medusa-ftp-vb.PNG)
+![Clique para ver execução](images/.PNG)
